@@ -5,4 +5,5 @@ Next line. I'm changing this file. I like GIT.
 =======
 Next line. I'm changing this file.
 Adding new idea.
+Having an idea.
 >>>>>>> new
